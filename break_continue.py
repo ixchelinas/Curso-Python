@@ -15,6 +15,7 @@ def run():
         if letra == 'o':
             break
         print(letra)
+    
 
 
 if __name__ == '__main__':
